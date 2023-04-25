@@ -1,0 +1,43 @@
+@charset "UFT-8";
+
+/*
+  EM HTML e id = em CSSD e #
+  Em HTML e class = em Css E .
+*/
+
+
+body{
+    background-color:  rgb(183, 199, 182);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: rgb(4, 109, 0) ;
+}
+
+h1#principal{
+    text-align: center;
+    background-color: green;
+    color: white;
+    
+}
+
+h2 {
+    color: rgb(51, 77, 49);
+}
+
+.basico{
+    color:rgb(51, 77, 49) ;
+    font-weight: bold;
+
+}
+
+.intermediario{
+    color:rgb(133, 138, 76) ;
+
+}
+
+.avancado{
+    color:rgb(116, 61, 61)
+
+}
