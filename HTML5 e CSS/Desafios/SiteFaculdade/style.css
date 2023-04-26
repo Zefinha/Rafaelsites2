@@ -43,6 +43,8 @@ main{
 }
 
 
+
+
 h2{
     font-family: "Bruno Ace SC";
     background-image: linear-gradient(to right,#19B5F7,white);
@@ -69,6 +71,7 @@ p#p{
     border: 2px solid #4EF5AB;
     border-radius: 10px;
     margin-right: 10px;
+    margin-left: 10px;
     
 }
 
